@@ -1,6 +1,6 @@
 This repository contains Julia code for the paper:
 
-K. Öcal, S. Ghrabli, M. P. H. Stumpf, "Phase transitions in microbial lineage trees" (2025)
+K. Öcal, S. Ghrabli, M. P. H. Stumpf, "Phase transitions in microbial lineage trees", [arXiv:2604.16065](https://arxiv.org/abs/2604.16065) (2025)
 
 The code is based on [this repository](https://github.com/kaandocal/twoclock). It consists of `sim.jl`, which is used to simulate populations with a fixed carrying capacity, and a model `plasmids.jl`.
 
